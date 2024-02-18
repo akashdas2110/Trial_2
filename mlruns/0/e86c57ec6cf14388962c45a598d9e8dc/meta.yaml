@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Desktop/Git/Trial/mlruns/0/e86c57ec6cf14388962c45a598d9e8dc/artifacts
+end_time: 1708259509159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e86c57ec6cf14388962c45a598d9e8dc
+run_name: placid-squirrel-716
+run_uuid: e86c57ec6cf14388962c45a598d9e8dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708259493231
+status: 3
+tags: []
+user_id: USER

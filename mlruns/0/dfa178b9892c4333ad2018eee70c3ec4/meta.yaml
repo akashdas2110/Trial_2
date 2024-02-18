@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/USER/Desktop/Git/Trial/mlruns/0/dfa178b9892c4333ad2018eee70c3ec4/artifacts
+end_time: 1708259447713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa178b9892c4333ad2018eee70c3ec4
+run_name: classy-crab-174
+run_uuid: dfa178b9892c4333ad2018eee70c3ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708259427333
+status: 3
+tags: []
+user_id: USER
